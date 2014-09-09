@@ -1,0 +1,77 @@
+- tyskland , USA, Africa , storbritannia,  hele verden(sør america, spania, frankrike)
+
+-bruke timestamp for tid spiller bruker ettersom timer object ender når
+bruker trykker "home"
+
+-within bounds for location place . Så man i realiteten kan oppnå riktig marketing for place
+
+-legge inn iconer på map når helt zoomet inn
+
+-animere inn steeple for skrånet text
+
+-info fane som draes ned isteden for å bruke infobartop.   spm og svar blir da adskilt, noe som igjen fixer buggen der spm dukker opp når det ikke skal
+Denne info fanen må kunne draes opp, i tilfeller man ønsker å se nærmere på resultats skjermen (bildet der kartet vises med markør og destinasjon)
+Informasjonen bør lagres i et UITextView eller evt et UIWebView . Linkes med ID, kanskje legge i en database.
+
+-integrasjon mot gamecenter (kanskje , lite vits for denne type spill)
+
+-bytte ut population med kmtolorance  … get it variable tolerance mot greens  … store tolerance for store byre 
+
+-------------------------
+
+Lemmus Ltd
+Omfavn flokkmentaliteten, gjør som alle andre, kjøp deg pike'.
+
+Velkommen til Lemmus Ltd clothing
+
+
+Vi i lemmus ltd leverer noe av markedets mest eksklusive pike' sjorter. 
+lemmus ltd's kvalitet er høyt ansett av mange på norsk sokkel og følger 
+bransjens strenge mote norm.
+For å sikre merkenavnet Lemmus Ltd og kvalitet vil valg av enkelte farge kombinasjoner ansees som utilstrekkelige og utenfor mote norm. Disse skjortene har vi sett oss nødt til å markere med møkk/dritt nederst på høyre erme
+
+Ved spesial bestillinger vil vi også bli nødt til å markere skjorten med vår møkk/drit label  
+
+
+Skjortene kan kun leveres pr post ved postoppkrav
+
+
+Valg av farge på ermer  : neon grønn
+			:hvit
+			:rød
+			:orange
+			:gul   - stempes med dirt/møkk/drit
+			:rosa  - stemples med dirt/møkk/drit
+
+(prog . noen fargekombinasjoner vil gi -stemples med dirt)
+
+
+
+
+Farge sømm på erme
+
+Dine mål: fra beltested til krage
+
+
+--bilde av Figur som forandrer seg
+
+
+
+Alle skjorter er handsydd i norge og etter dine mål
+bilde 
+
+
+Lemmus clothing kjennetegnes often på dens noe utradisjonelle og uortodokse sømm rundt ermene og den pragende majestetiske lemen plassert på skjortens høyre bryst
+
+Kontakt: 
+Salg
+Kommentar
+Garanti 
+
+
+
+
+
+
+
+

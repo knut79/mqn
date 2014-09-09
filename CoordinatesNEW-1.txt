@@ -1,0 +1,1736 @@
+finnmark
+---------
+største i areal, men det minste i folketall , 48 615,96 km², 19 kommuner
+,lett, størst areal i norge
+alta,medium, finnmarks største by adm senter
+karasjok,medium,senter for sametinget
+kirkenes,hard
+hammerfest,medium
+kautokeino,hard
+honningsvåg -V hard norges nordligste by
+lakselv - hard
+båtsfjord - V hard
+vardø,hard - norges østligste by
+vadsø,hard
+
+
+vardø, hard,  vardø kommune
+1590,312
+hammerfest , hammerfest kommune
+837,587
+alta,medium, finnmarks største by, alta kommune
+alta
+899,805
+lakselv, porsanger kommune
+1049,697
+vadsø, vadsø kommune
+1502,459
+kirkenes, sør-varanger, endepunkt for E6 og hurtigruten
+1580,539
+karasjok, karasjok kommune(nest største i areal), huster sametinget
+1182,832
+honningsvåg, nordkapp kommune
+1009,383
+båtsfjord, båtsfjord kommune
+1419,299
+
+95 km lang og strekker seg inn til Varangerbotn
+vardangerfjorden NBNBNB Varangerfjorden
+1538,441
+1570,493
+1562,496
+1550,498
+1527,504
+1510,507
+1509,490
+1490,492
+1468,495
+1461,502
+1452,498
+1441,499
+1425,500
+1411,504
+1397,506
+1387,503
+1378,487
+1383,482
+1392,481
+1406,480
+1427,481
+1434,474
+1442,474
+1458,470
+1471,466
+1485,462
+1497,459
+1503,458
+1514,456
+1524,451
+
+
+vardangerhalvøya
+
+
+troms
+-------
+eneste fylke som grenser til både sveride og finland, 25 869,68 km² , 25 kommuner
+grenser til sveriges nordligste punkt
+
+øyer..
+senja,medium,norges nest største øy,1587,93 km²,omfatter kommunene Berg, Torsken, Tranøy og deler av Lenvik
+hinnøya, norges største øy
+by..
+tromsø,easy,største by i troms, tromsø kommune
+harstad
+finnsnes
+
+fjord..
+lyngen,hard,lengste fjord i troms
+ullsfjorden
+balsfjorden
+malangen  -- vanskelig å definere
+
+fjell..
+lyngsalpene--- vanskelig å definere
+
+
+tromsø,easy,største by i troms, tromsø kommune
+tromsø
+530,1100
+
+
+lenvik kommune
+finnsnes
+496,1262
+
+
+harstad kommune, eneste by på hinnøya
+harstad
+417,1448
+
+
+senja,medium,norges nest største øy,1587,93 km²,omfatter kommunene Berg, Torsken, Tranøy og deler av Lenvik
+senja
+479,1207
+483,1217
+487,1223
+489,1227
+483,1233
+477,1240
+481,1250
+487,1254
+493,1261
+492,1266
+488,1269
+494,1270
+502,1271
+504,1275
+499,1286
+492,1292
+481,1293
+472,1306
+465,1305
+456,1303
+451,1309
+450,1318
+446,1333
+444,1341
+445,1347
+452,1353
+453,1357
+440,1369
+435,1369
+432,1364
+428,1356
+424,1355
+421,1355
+422,1358
+422,1361
+406,1373
+404,1367
+397,1356
+399,1348
+406,1347
+405,1340
+411,1334
+417,1332
+414,1326
+412,1322
+397,1326
+394,1325
+389,1318
+394,1310
+401,1305
+392,1301
+385,1300
+378,1294
+381,1284
+371,1282
+369,1282
+368,1275
+373,1266
+382,1260
+388,1254
+396,1241
+384,1232
+384,1225
+391,1224
+388,1214
+389,1209
+411,1207
+399,1198
+396,1186
+410,1189
+410,1181
+417,1178
+426,1179
+437,1173
+447,1182
+455,1185
+469,1189
+470,1200
+470,1202
+
+nordligste punkt mot sverige
+765,1185
+
+norgest største øy utenom spitsbergen og svalbard, 2 204,7 km², ligger i troms og nordland fylke
+hinnøya
+333,1602
+332,1612
+333,1626
+333,1640
+331,1653
+335,1656
+337,1663
+341,1663
+345,1656
+347,1652
+351,1645
+352,1639
+354,1625
+356,1612
+358,1624
+363,1626
+372,1625
+391,1623
+398,1621
+397,1612
+397,1599
+400,1591
+408,1593
+414,1585
+421,1575
+416,1564
+416,1549
+418,1536
+421,1528
+426,1526
+434,1521
+443,1516
+444,1506
+443,1493
+443,1482
+435,1467
+427,1455
+424,1439
+418,1437
+413,1437
+405,1437
+393,1439
+380,1433
+373,1429
+373,1435
+375,1443
+370,1455
+369,1469
+372,1482
+367,1477
+357,1475
+350,1460
+349,1451
+341,1446
+335,1435
+331,1433
+325,1438
+326,1441
+318,1445
+312,1445
+309,1450
+307,1457
+309,1467
+312,1478
+313,1485
+319,1489
+310,1498
+314,1506
+319,1514
+323,1518
+320,1521
+320,1525
+323,1530
+330,1536
+335,1542
+335,1549
+329,1556
+326,1562
+323,1570
+319,1573
+320,1576
+322,1584
+322,1588
+329,1588
+331,1594
+335,1596
+
+121 km lang fjord i Troms fylke. Fjorden går fra Sørklubben i nord til Melen lengst inn i landet
+lyngen fjord
+624,954
+650,953
+650,961
+653,965
+651,975
+656,978
+660,985
+665,992
+658,998
+665,1000
+670,1009
+675,1022
+673,1031
+680,1036
+697,1042
+707,1049
+713,1049
+725,1050
+725,1054
+715,1057
+707,1056
+700,1054
+686,1046
+682,1046
+680,1055
+684,1066
+686,1079
+690,1097
+692,1106
+695,1110
+696,1115
+687,1116
+682,1129
+679,1140
+677,1158
+673,1162
+672,1148
+671,1140
+666,1135
+676,1117
+676,1106
+671,1091
+676,1090
+676,1083
+671,1083
+668,1075
+665,1068
+660,1060
+666,1056
+668,1044
+664,1039
+657,1038
+652,1033
+648,1020
+643,1007
+640,990
+637,980
+635,970
+623,958
+
+
+Tromsø og Balsfjord kommune, 49 km lang
+balsfjorden
+530,1133
+536,1121
+548,1133
+558,1146
+561,1155
+570,1156
+581,1167
+587,1167
+600,1159
+612,1163
+620,1168
+627,1179
+634,1186
+643,1192
+629,1196
+621,1204
+616,1204
+612,1200
+612,1190
+614,1178
+606,1170
+590,1180
+577,1178
+570,1173
+564,1164
+559,1164
+549,1156
+546,1152
+542,1155
+540,1150
+541,1146
+530,1133
+
+
+
+nordland
+-----------
+fylke som har flest kommuner 44 , 38 460,36 km²
+
+fjorder..
+ranfjorden,hard  ---dropped
+folda, hard --dropped
+tysfjorden, hard, norges nest dypeste(897m)
+ofotfjorden, medium , den lengste i nordland
+isbree..
+vestre svartisen,hard,norges nest største   ---hard to define
+innsjø..
+røssvatnet,hard,norges nest største 219km2
+fjell..
+saltfjellet,hard 
+stetind (nordland, finnes også ett i oppland),hard, norges nasjonalfjell
+øyer..
+andøya,hard,(norges 10.største øy)
+byer..
+fauske(marmorbyen)
+bodø,medium,fylkes hovedstad,størst
+mo i rana, hard
+brønnøysund, hard
+svolvær, medium
+
+
+
+Tysfjord kommune,  74 km 
+tysfjorden
+439,1616
+447,1599
+458,1599
+469,1595
+475,1598
+475,1604
+481,1602
+490,1604
+505,1608
+493,1612
+492,1622
+492,1633
+498,1625
+507,1625
+514,1628
+526,1634
+522,1634
+512,1639
+502,1635
+499,1650
+505,1652
+518,1649
+516,1661
+525,1664
+523,1670
+513,1670
+520,1674
+521,1681
+512,1681
+495,1668
+504,1680
+506,1693
+532,1695
+538,1699
+543,1708
+530,1707
+514,1701
+503,1705
+494,1686
+484,1676
+483,1672
+468,1666
+463,1648
+457,1632
+449,1636
+448,1625
+
+fortsettelse av vestfjorden
+ofotfjorden
+432,1574
+454,1580
+452,1571
+464,1563
+474,1550
+487,1541
+501,1542
+507,1550
+512,1552
+524,1539
+525,1533
+533,1527
+541,1528
+541,1520
+545,1512
+550,1498
+560,1493
+571,1491
+590,1490
+600,1485
+587,1484
+577,1482
+562,1478
+555,1483
+553,1469
+544,1464
+541,1469
+539,1475
+535,1482
+531,1496
+522,1506
+511,1513
+514,1504
+498,1498
+493,1504
+490,1515
+490,1520
+465,1536
+458,1532
+453,1536
+450,1543
+453,1548
+450,1556
+443,1557
+437,1562
+433,1570
+
+
+fjellområde som skiller regionene Helgeland og Salten, krysses av e9
+saltfjellet
+604,2053
+
+
+1392 moh, Tysfjord kommune , norges nasjonalfjell
+stetind
+505,1611
+
+areal på 489 km², mye multebær, vesterålen kommune
+andøya
+318,1342
+319,1347
+318,1355
+321,1364
+324,1373
+326,1377
+322,1391
+321,1409
+322,1423
+316,1436
+308,1446
+304,1449
+306,1455
+308,1469
+307,1478
+305,1483
+295,1482
+292,1467
+284,1457
+283,1444
+282,1417
+282,1410
+295,1391
+293,1379
+288,1362
+295,1340
+305,1332
+319,1337
+
+fauske kommune
+fauske
+506,1899
+
+fylkeshovedstad, bodø kommune
+bodø
+410,1942
+
+rana kommune, Polarsirkelbyen
+Mo i Rana
+505,2189
+
+brønnøy kommune,  mest kjent for den statlige registeretaten, Brønnøysundregistrene.
+Brønnøysund
+420,2479
+
+vågan kommune
+Svolvær
+303,1693
+
+
+nest største innsjø med et areal på 219 km²,ligger i Hattfjelldal og Hemnes
+Røssvatnet
+556,2339
+554,2348
+540,2349
+539,2353
+547,2357
+557,2353
+579,2347
+586,2334
+570,2329
+567,2322
+573,2315
+573,2308
+567,2304
+567,2293
+572,2288
+576,2279
+584,2271
+580,2267
+574,2268
+569,2273
+557,2279
+557,2286
+549,2288
+549,2294
+555,2295
+557,2305
+549,2316
+543,2318
+528,2311
+529,2315
+536,2324
+544,2327
+554,2336
+
+
+24 kommuner, 22 414,63 km²
+nord-trøndelag
+---------------
+stjørdal,medium,største by
+steinkjer,medium
+namsos,hard
+verdal,hard
+fjord..
+trondheimsfjorden,easy
+
+salsvatnet, hard , europas nest dypeste 464 m
+Snåsavatnet 6 største 121km2
+
+
+norges tredje lengste fjord 126 km fra agdenes til steinkjer
+Trondheimsfjorden
+373,3012
+377,3025
+386,3016
+391,3008
+396,3016
+407,3023
+411,3030
+417,3034
+429,3038
+435,3039
+439,3057
+433,3072
+438,3073
+447,3059
+453,3058
+470,3058
+473,3047
+460,3047
+450,3044
+451,3039
+457,3024
+473,3017
+488,3015
+500,3005
+520,3003
+527,2986
+521,2983
+513,2987
+504,2981
+515,2967
+509,2955
+506,2956
+490,2980
+490,2963
+496,2957
+501,2938
+508,2930
+513,2931
+524,2923
+526,2917
+521,2907
+537,2900
+542,2894
+532,2882
+521,2884
+512,2880
+498,2895
+495,2886
+506,2861
+523,2843
+513,2835
+492,2846
+487,2839
+483,2841
+490,2852
+487,2862
+482,2865
+475,2890
+461,2911
+461,2917
+471,2911
+480,2892
+489,2893
+494,2902
+492,2906
+494,2927
+474,2951
+470,2965
+460,2987
+446,2999
+441,3018
+426,3023
+416,3010
+407,3011
+403,3004
+398,2992
+418,2970
+407,2960
+394,2972
+391,2983
+381,2994
+377,3003
+372,3005
+
+
+Stjørdal kommune , mest folkerike kommune i nordtrøndelag, værnes flyplass ligger i denne kommunen
+stjørdal
+523,2987
+
+
+steinkjer kommune, steinkjer by er nord-trøndelags mest folkerike by
+steinkjer
+518,2841
+
+verdal kommune, kjent fom lottobygda _? pgs et høyt antall millionvinnere i lotto
+verdal
+542,2890
+
+namsos kommune, byen ligger innerst i Namsenfjorden hvor lakseelva namsen har sitt utløp
+namsos
+468,2738
+
+
+norgen nest dypeste innsjø 464 m, Er meromiktiske, dvs at innsjøen har to vannlag som ikke blander seg med hverandre 
+salsvatnet
+445,2682
+436,2689
+438,2694
+442,2693
+446,2686
+449,2686
+454,2682
+456,2691
+464,2688
+463,2681
+464,2674
+472,2667
+478,2660
+475,2656
+471,2658
+465,2664
+459,2669
+452,2676
+
+delt mellom Steinkjer og Snåsa kommuner
+snåsavatnet
+516,2818
+522,2818
+525,2809
+537,2798
+545,2796
+548,2787
+564,2773
+564,2764
+576,2745
+572,2743
+563,2746
+548,2769
+537,2783
+534,2789
+532,2793
+519,2807
+516,2813
+
+
+består av 25 kommuner og har et samlet areal på 18 848 km²
+sør-trøndelag
+-----------------
+trondheim, lett, største by
+brekstad, hard , nest største by
+røros, ikke by men bergstad
+selbu ???
+
+(hitra) øy
+
+
+ tredje mest folkerike byen i Norge , trondheim kommune
+trondheim
+476,3021
+
+bergstad som står på UNESCOs liste over verdens kulturarv, er bygd rundt et kobberverk. røros kommune
+røros
+662,3151
+
+selbu kommune , kjent for strikking, og mønsteret Selburose
+selbu
+557,3035
+
+Ørland kommune
+brekstad
+378,3001
+
+
+19 fylker,  15 113,67 km²
+Møre og Romsdal
+----------------------
+Ålesund,lett, største by
+molde,lett
+kristiansund,medium
+åndalsnes,hard
+ulsteinvik,hard
+
+geirangerfjorden
+
+(smøla) øy
+
+
+
+molde kommune, 
+molde
+242,3324
+
+ålesund kommune, katastrofale bybrannen i 1904, største by i m og r
+ålesund
+174,3428
+
+kristiansund kommune
+kristiansund
+257,3218
+
+Ulsteinvik ligger på øya Hareidlandet, Ulstein kommune, kjent for hødd fotballlag
+Ulsteinvik
+158,3469
+
+Rauma kommune, Byen ligger ved utløpet av elva Rauma i Romsdalsfjorden
+åndalsnes
+312,3334
+
+
+15 km lang og utgjør en arm av storfjorden, På UNESCOs liste over verdens kultur- og naturarvsteder. 
+geirangerfjorden
+276,3427
+280,3426
+286,3441
+291,3446
+289,3461
+296,3461
+300,3460
+302,3452
+306,3450
+311,3451
+311,3453
+306,3452
+304,3458
+301,3462
+295,3465
+289,3464
+286,3471
+284,3473
+283,3469
+284,3460
+286,3452
+286,3447
+282,3440
+276,3429
+
+
+25 kommuner, 18 623,25 km²
+Sogn og Fjordane
+---------------
+nest minste fylke i folketall, hard
+
+Florø, medium
+Førde, hard
+Måløy, hard
+Leikanger, hard
+stad, hard
+
+Sognefjorden, easy , lengste fjorden i norge, også dypeste 1300 muh
+
+Jostedalsbreen, medium -- vanskelig å definere
+
+store skagadølstind, 2405 moh , tredje høyeste, hard
+
+hornhindalsvatnet, medium , europas dypeste 514 m
+
+
+sognefjorden
+211,3745
+218,3764
+226,3759
+239,3756
+243,3762
+255,3757
+259,3744
+269,3730
+272,3731
+281,3719
+289,3716
+294,3712
+305,3710
+319,3702
+335,3701
+348,3699
+354,3688
+358,3686
+356,3669
+360,3670
+379,3664
+388,3672
+396,3670
+404,3666
+402,3662
+412,3655
+418,3650
+418,3642
+427,3644
+432,3635
+436,3624
+443,3618
+446,3616
+448,3609
+452,3605
+450,3603
+444,3604
+444,3607
+443,3612
+432,3620
+429,3623
+424,3631
+421,3637
+412,3641
+411,3646
+401,3652
+397,3655
+395,3662
+390,3662
+384,3656
+370,3654
+366,3659
+362,3662
+351,3661
+343,3663
+341,3667
+347,3678
+343,3686
+336,3692
+324,3692
+312,3691
+303,3700
+297,3699
+291,3701
+285,3707
+278,3709
+267,3713
+261,3721
+255,3733
+249,3745
+246,3747
+236,3741
+228,3749
+225,3746
+216,3745
+
+Norges vestligste by, florø kommune
+florø
+159,3663
+
+førde kommune, mest folkerike kommune i s og f
+førde
+246,3647
+
+Vågsøy kommune
+måløy
+132,3589
+
+leikanger kommune
+leikanger
+370,3657
+
+halvøy i Selje kommune
+stadt
+152,3557
+156,3556
+156,3550
+148,3546
+131,3540
+129,3535
+130,3531
+126,3530
+124,3532
+117,3531
+115,3527
+108,3529
+108,3534
+103,3535
+104,3538
+106,3540
+104,3543
+106,3545
+111,3547
+111,3552
+113,3557
+121,3553
+125,3550
+130,3553
+134,3552
+139,3555
+142,3560
+146,3557
+149,3556
+
+
+innsjø i Eid og Hornindal kommuner, dybde på 514 m er den Europas dypeste innsjø.
+hornindalsvatn
+227,3542
+229,3545
+236,3542
+242,3540
+249,3531
+260,3522
+258,3519
+261,3514
+253,3514
+253,3516
+252,3518
+248,3520
+248,3524
+243,3529
+239,3536
+230,3540
+
+2405 moh, Norges tredje høyeste fjell, Toppunktet skille mellom Luster og Årdal kommune
+store skagastølstind
+441,3550
+
+
+
+33 kommuner, 15 440,03 km²
+Hordaland
+----------
+tredje mest folkerike
+eneste fylket hvor alle kommuner grenser til havet, hard
+40% av norsk frukt produksjon
+byer....
+bergen, norges nest største by, folketall 258 000 innbyggere
+odda 
+stord  --- kommune
+###fitjar  ---- kommune
+
+hardangerfjorden, nest lengste
+hardangervidda, fastlands norges største nasjonalpark
+hardangerjøkulen,hard, fjell/isbree 1863moh
+folgefonna,hard, tredj sørste
+
+bergen kommune, utgangspunktet for Hurtigruten
+bergen
+306,3884
+
+odda kommune
+odda
+456,3890
+
+183 km lang og er Norges nest lengste etter Sognefjorden
+hardangerfjorden
+395,3975
+386,3970
+383,3964
+381,3958
+380,3951
+381,3942
+381,3936
+388,3939
+395,3935
+397,3926
+394,3915
+389,3908
+385,3901
+388,3898
+387,3884
+385,3874
+398,3873
+400,3864
+395,3858
+396,3853
+392,3850
+394,3843
+397,3841
+403,3829
+407,3827
+412,3819
+417,3814
+424,3808
+434,3810
+436,3802
+440,3795
+445,3789
+447,3788
+447,3767
+450,3766
+451,3782
+451,3783
+457,3780
+465,3780
+473,3772
+477,3771
+470,3781
+475,3785
+476,3788
+466,3783
+457,3785
+449,3792
+443,3799
+441,3808
+439,3817
+440,3834
+444,3844
+446,3852
+450,3867
+449,3875
+444,3866
+443,3856
+439,3850
+438,3841
+436,3832
+435,3817
+421,3815
+420,3820
+419,3830
+410,3839
+410,3845
+409,3855
+405,3857
+407,3864
+407,3868
+407,3873
+407,3878
+403,3879
+402,3886
+415,3897
+421,3889
+420,3881
+424,3882
+426,3888
+409,3909
+409,3921
+413,3934
+405,3943
+399,3949
+398,3959
+402,3969
+
+Norges tredje største isbre, Folgefonna er ikke en rest etter istiden
+folgefonna
+434,3920
+424,3929
+418,3924
+422,3911
+428,3903
+440,3893
+450,3897
+456,3904
+458,3914
+450,3916
+443,3923
+
+
+
+26 kommuner ,   9 375,93 km²
+Rogaland
+--------
+stavanger,easy
+egersund,hard
+
+sandnes
+karmøy
+haugesund
+??? jæren (området)
+utsira (øy)   -----ADD TO MAP/ 
+
+
+stavanger kommune, største by i rogaland
+stavanger
+483,4134
+
+sandnes kommune, Sandnes ligger innerst i Gandsfjorden
+sandnes
+494,4157
+
+i Eigersund kommune
+egersund
+558,4217
+
+i Time kommune
+Bryne
+497,4181
+
+Karmøy har tre mindre byer, Kopervik, Åkrehamn og Skudeneshavn. 
+karmøy
+394,4074
+401,4079
+407,4085
+415,4097
+420,4105
+424,4119
+425,4124
+421,4127
+416,4131
+412,4126
+407,4120
+404,4112
+401,4105
+400,4100
+395,4092
+396,4087
+394,4082
+392,4080
+haugesund
+397,4074
+
+utsira (øy)   -----ADD TO MAP/ 
+
+
+
+ 15 kommuner,   7 276,4 km²
+Vest-Agder
+----------
+kristiansand
+mandal,hard
+vennesla,vhard
+
+farsund
+flekkefjord
+
+lindesnes fyr
+
+
+største by i vest-agder
+kristiansand
+777,4175
+
+mandal kommune(norges sørligste by)
+mandal
+736,4223
+
+vennesla kommune
+vennesla
+764,4156
+
+farsund kommune
+farsund
+667,4243
+
+flekkesjord kommune
+flekkefjord
+638,4212
+
+lindesnes kommune 
+lindesnes halvøy
+704,4231
+705,4235
+704,4239
+706,4244
+703,4249
+699,4251
+696,4248
+696,4243
+697,4235
+701,4232
+
+
+
+15 kommuner, 9 158,15 km²
+Aust-Agder
+--------------
+Arendal,medium
+Risør, vhard
+Tvedestrand,vhard
+Arendal,hard
+Grimstad,hard
+lillesand,hard --dropped
+
+hovden vintersportsområde --dropped
+
+
+
+arendal kommune, nidelva munner ut i byens havnebassend
+arendal
+823,4080
+
+grimstad kommune
+grimstad
+815,4109
+
+risør kommune
+risør
+839,4012
+
+tvedestrand kommune
+tvedestrand
+823,4043
+
+
+
+18 kommuner, 15 299,21 km²
+Telemark 
+---------
+byer...
+kragerø, vhard
+notodden
+porsgrunn
+rjukan
+skien, størst i fylket
+
+tinnsjø, hard, 460meter, tredje dypeste innsjø i norge
+
+119 av landets kommuner kan komme seg opp på en topp og få øye på Gaustatoppen.
+gaustatoppen 1883 moh
+
+
+
+tinn kommune
+rjukan
+670,3824
+
+notodden kommune
+notodden
+764,3853
+
+
+skien kommune, en av norges eldste byer( fra rund år 1000), største by  i telemark
+skien
+831,3901
+
+
+porsgrunn kommune
+porsgrunn
+842,3913
+
+kragerø kommune
+kragerø
+851,3969
+
+delt mellom kommunene Tinn og Notodden
+tinnsjå/tinnsjø
+685,3799
+685,3803
+688,3801
+693,3803
+699,3807
+708,3813
+713,3815
+715,3820
+721,3825
+724,3829
+723,3821
+720,3820
+715,3811
+704,3807
+694,3800
+684,3792
+677,3794
+676,3796
+681,3796
+
+gaustatoppen
+677,3827
+
+Norges nest minste fylke. 14 kommuner. 2 224,37 km²
+Vestfold
+---------
+fylke med landets eneste bøkeskog
+
+sandefjord,medium  ---check map fjord inn
+tønsberg,medium
+larvik,hard
+Horten,hard
+holmestrand,hard
+
+larvik kommune
+Larvik
+886,3911
+
+sandefjord kommune
+sandefjord
+897,3886
+
+horten kommune
+horten
+894,3820
+
+tønsberg kommune
+tønsberg
+901,3851
+
+holmestrand kommune
+holmestrand
+872,3814
+
+
+21 kommuner. 14 910,76 km²
+Buskerud
+---------
+byer..
+drammen
+kongsberg
+
+innsjø...
+Tyrifjorden 5 største 138km2 (innsjø)
+
+Drammensvassdraget munner ut i Drammensfjorden. største by i buskerud
+drammen
+836,3771
+
+
+kongsberg kommune
+kongsberg
+791,3813
+
+Tyrifjorden 5 største 138km2 (innsjø), hele skjøen ligger i buskerud
+tyrifjorden
+795,3733
+799,3726
+801,3723
+805,3724
+808,3722
+816,3724
+821,3725
+826,3730
+828,3738
+830,3738
+833,3732
+831,3727
+826,3722
+821,3720
+816,3715
+816,3707
+813,3705
+807,3704
+805,3716
+801,3706
+794,3706
+793,3712
+793,3720
+793,3727
+
+modum kommune, har verdens største skiflyvings bakke
+vikersund
+795,3739
+
+
+
+22 kommuner 4 918,04 km²
+Akershus
+--------
+Asker,medium
+??nesodden,hard
+Jessheim,hard
+Kløfta,hard
+Ås,hard  --dropped
+SKi,hard   --dropped
+lillestrøm
+Eidsvoll
+
+
+
+asker kommune
+asker
+850,3743
+
+skedsmo kommune
+lillestrøm
+897,3690
+
+Ullensaker kommune
+kløfta
+894,3664
+
+Ullensaker kommune
+jessheim
+891,3649
+
+eidsvoll kommune, norges grunnlov ble stiftet i eidsvollsbygningen i 1814
+eidsvoll
+881,3608
+
+Frogn kommune
+drøbak
+885,3766
+
+
+
+Oslo
+----
+Oslo,easy
+
+Oslo kommune
+oslo
+872,3713
+
+
+
+4 182,2 km² , 18 kommuner
+Østfold
+-------
+Askim,hard
+Fredrikstad,medium
+sarpsborg,hard
+halden,hard
+Moss,hard
+Mysen,hard
+
+sarpsborg kommune
+sarpsborg
+967,3814
+
+fredrikstad kommune. Byen Fredrikstad ligger ved Glommas, største by i østfold
+fredrikstad
+957,3835
+
+halden kommune, Byen og kommunen deles i to av elva Tista
+halden
+1008,3829
+
+askim kommune, 
+askim
+944,3755
+
+Mysen vokst fram rundt en jernbanestasjon. Eidsberg kommune
+mysen
+962,3753
+
+moss kommune, Mosselukta er et kjent begrep som beskriver lukten av cellulose 
+moss
+911,3808
+
+
+25 189,62 km², 26 kommuner
+Oppland
+--------
+eneste fylke som hverken har grense til hav eller annet land
+
+lillehammer,easy
+Hamar
+galdhøpiggen 2469moh, medium
+
+mjøsa, 365 km2 største, easy
+Randsfjorden oppland 4 største 139km2
+
+??dovre (område)
+
+lillehammer kommune, nordlige endestasjonen for dampskipet Skibladner.
+lillehammer
+727,3493
+
+lom kommune, norges høyeste fjell 2469moh. hvis man ikke regner med Dronning Maud Land, der Jøkulkyrkja på 3148 moh. er høyest
+galdhøpiggen
+466,3490
+
+fjerde største innsjøen, et areal på 139,2 km², i oppland
+randsfjorden
+740,3571
+740,3573
+740,3576
+745,3580
+752,3583
+763,3594
+764,3601
+763,3605
+769,3617
+778,3617
+785,3623
+789,3641
+793,3649
+792,3654
+808,3667
+807,3661
+798,3654
+797,3642
+794,3631
+797,3627
+791,3625
+791,3621
+779,3614
+770,3613
+765,3604
+765,3593
+757,3581
+757,3576
+751,3579
+742,3575
+
+
+ligger i Akershus, Oppland og Hedmark.
+mjøsa
+724,3493
+728,3504
+732,3509
+736,3511
+747,3512
+757,3515
+763,3522
+771,3527
+775,3542
+780,3546
+788,3548
+791,3549
+797,3548
+802,3551
+807,3551
+814,3553
+818,3553
+820,3559
+825,3558
+831,3557
+838,3559
+846,3564
+852,3569
+855,3577
+856,3582
+860,3586
+867,3597
+870,3594
+864,3580
+859,3570
+856,3564
+859,3555
+853,3551
+851,3559
+843,3556
+838,3549
+833,3547
+827,3539
+820,3530
+822,3525
+820,3522
+815,3524
+812,3525
+803,3522
+796,3515
+792,3516
+796,3524
+804,3528
+807,3538
+801,3539
+792,3543
+780,3538
+778,3527
+766,3517
+754,3510
+738,3509
+729,3502
+
+
+
+Hedmark
+-----------
+Femunden, hard 
+
+hamar,medium
+elverum,hard
+kongsvinger,hard
+
+
+hamar kommune
+hamar
+815,3526
+
+elverum kommune
+elverum
+855,3485
+
+kongsvinger kommune
+kongsvinger
+965,3599
+
+ligger i sør-trøndelag og hedemark fylke
+norges tredje største innsjø 203km2
+femunden
+726,3162
+730,3160
+731,3155
+739,3160
+740,3164
+745,3168
+747,3184
+753,3195
+759,3208
+756,3215
+763,3232
+769,3236
+774,3240
+776,3246
+783,3256
+778,3259
+778,3256
+774,3249
+770,3244
+759,3236
+747,3234
+743,3233
+740,3225
+740,3218
+745,3221
+751,3219
+747,3214
+742,3209
+743,3207
+749,3210
+746,3202
+745,3193
+741,3185
+741,3178
+735,3168
+
+
+
+SVERIGE
+---------
+
+----
+http://stackoverflow.com/questions/801828/why-should-a-self-implemented-getter-retain-and-autorelease-the-returned-object
+
+Edit: Added autorelease for paises, as you are returning it. When you return an object, always autorelease it if you have alloc&init'd it.
+http://stackoverflow.com/questions/602178/when-to-release-a-nsstring-in-iphone
+
+
+
+
+
+The reason the NSArray is autorelease'd is the same reason all the other objects are autorelease'd: the methods that assigned them their values called autorelease on them before they returned. In general, you can assume methods return autorelease'd objects if they do not have the word "create" or "new" in them. That is the general Cocoa convention. (Although 3rd party code may be goofy and do things differently, so caveat programmer).
+
+You only really need to worry about objects you alloc or copy yourself; in other words, pair every alloc or copy with a release or autorelease.
+
+http://stackoverflow.com/questions/2572391/i-dont-know-how-to-release-nsstring
+
+
+
+oslo -> trheim
+392 km
+

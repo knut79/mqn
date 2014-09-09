@@ -1,0 +1,4 @@
+running in background fix
+norwegian characters in points game fix
+some translation fixes
+other minor bug fixes
