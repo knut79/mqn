@@ -44,8 +44,10 @@
 
 			//ReadQuestionsFromFileToDatabase must be read after all locations are put into the database as
 			//they refere to locations
+            [self ReadLocationsFromFileToDatabase:@"test/test"];
+
 //			[self ReadLocationsFromFileToDatabase:@"states"];
-			[self ReadLocationsFromFileToDatabase:@"cities"];
+//			[self ReadLocationsFromFileToDatabase:@"cities"];
 //			[self ReadLocationsFromFileToDatabase:@"lakes"];
 //			[self ReadLocationsFromFileToDatabase:@"fjords"];
 //			[self ReadLocationsFromFileToDatabase:@"islands"];

@@ -1,3 +1,10 @@
 # Content types
-/MQNorway/*.txt
+/MQNorway/armsOfCoat.txt
+/MQNorway/cities.txt
+/MQNorway/fjords.txt
+/MQNorway/islands.txt
+/MQNorway/lakes.txt
+/MQNorway/pictureQuestions.txt
+/MQNorway/places.txt
+/MQNorway/states.txt
 .DS_Store
